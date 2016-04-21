@@ -6,6 +6,6 @@ Description for the assignment: http://www-cvr.ai.uiuc.edu/~seth/Teaching/ece550
 
 Guidelines: https://sites.google.com/site/rosassignmentii/home
 
-The source code: ./sample/src/sample_node.cpp
+The source code: ./src/sample_node.cpp
 
-The launcher: ./sample/launcher/test_youbot.launch
+The launcher: ./launcher/test_youbot.launch
